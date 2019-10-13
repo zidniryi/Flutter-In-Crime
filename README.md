@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # FlutterInCrime
 ## Flutter In Crime
 Simple App Create By Flutte for learn, 
